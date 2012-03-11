@@ -14,4 +14,11 @@
         name="game">Game Screen</string>
     <string
         name="scores">Scores Screen</string>
+    <string
+        name="app_logo_top">BEEN THERE</string>
+    <string
+        name="app_logo_bottom">DONE THAT!</string>
+    <string
+        name="app_version_info">Version 1.0.0\nCopyright © 2010 Mamlambo, Inc. All Rights Reserved.
+    </string>
 </resources>
