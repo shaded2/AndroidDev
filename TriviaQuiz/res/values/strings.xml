@@ -21,4 +21,6 @@
     <string
         name="app_version_info">Version 1.0.0\nCopyright © 2010 Mamlambo, Inc. All Rights Reserved.
     </string>
+    <color name="logo_color">#223344</color>
+    <dimen name="logo_size">50 px</dimen>
 </resources>
