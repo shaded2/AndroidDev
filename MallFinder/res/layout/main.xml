@@ -12,5 +12,6 @@
         android:layout_height="fill_parent"
         android:clickable="true"
         android:apiKey="0uN2wZx_vQL5TCTl1JfH2BdoKn9vnepG78-GxKQ"/>
+
     </FrameLayout>
 </LinearLayout>
